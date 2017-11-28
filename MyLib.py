@@ -1,3 +1,3 @@
-# MyLib.py
-def FuncCall()
+# MyLib.py:
+def FuncCall():
 	return 1
